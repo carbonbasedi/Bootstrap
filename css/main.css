@@ -193,3 +193,10 @@
   align-items: center;
   margin: 5px;
 }
+
+.copyright {
+  color: white;
+  background-color: #1b252f;
+  padding: 10px;
+  font-size: 10px;
+}
